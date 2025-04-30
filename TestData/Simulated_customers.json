@@ -1,0 +1,50 @@
+[
+    {
+      "Customer_ID": "12345",
+      "Name": "Acme Corp",
+      "City": "Helsinki",
+      "Country_Region_Code": "FI",
+      "Balance": 1500.50,
+      "BalanceDate": "2024-12-30"
+    },
+    {
+      "Customer_ID": "12345",
+      "Name": "Acme Corp",
+      "City": "Helsinki",
+      "Country_Region_Code": "FI",
+      "Balance": 7500.51,
+      "BalanceDate": "2024-12-31"
+    },
+    {
+      "Customer_ID": "12345",
+      "Name": "Beta Oy",
+      "City": "Espoo",
+      "Country_Region_Code": "FI",
+      "Balance": 2700.00,
+      "BalanceDate": "2024-12-31"
+    },
+    {
+      "Customer_ID": "12345",
+      "Name": "Gamma Ltd",
+      "City": "Vantaa",
+      "Country_Region_Code": "FI",
+      "Balance": 980.75,
+      "BalanceDate": "2024-12-31"
+    },
+    {
+      "Customer_ID": "67890",
+      "Name": "Delta AB",
+      "City": "Stockholm",
+      "Country_Region_Code": "SE",
+      "Balance": 3200.00,
+      "BalanceDate": "2024-12-31"
+    },
+    {
+      "Customer_ID": "67890",
+      "Name": "Epsilon AS",
+      "City": "Oslo",
+      "Country_Region_Code": "NO",
+      "Balance": 1100.00,
+      "BalanceDate": "2024-12-31"
+    }
+  ]  
